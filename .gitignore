@@ -2,3 +2,5 @@ node_modules
 .vitepress/dist
 .vitepress/cache
 .pnpm-store/
+.wrangler
+.dev.vars*
