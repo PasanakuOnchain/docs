@@ -83,7 +83,7 @@ Quick lookup for constants, external API, and events. Behavior details live in t
 
 ## Deploy and networks
 
-Production deploy uses env vars and Base networking documented in the repository `README.md`:
+Production deploy uses env vars and Base networking documented in the [core-v2 README](https://github.com/PasanakuOnchain/core-v2/blob/main/README.md):
 
 ```text
 PASANAKU_ASSET
@@ -100,6 +100,6 @@ Fork parity tests target Base USDC + Fluid fUSDC through `mox test tests/fork --
 
 ## See also
 
-- Repository `README.md` — tooling
-- Repository `CONTEXT.md` — domain wording rules
-- Source: `src/Pasanaku.vy`
+- [README](https://github.com/PasanakuOnchain/core-v2/blob/main/README.md) — tooling
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — domain wording rules
+- Source: [`src/Pasanaku.vy`](https://github.com/PasanakuOnchain/core-v2/blob/main/src/Pasanaku.vy)

@@ -68,5 +68,5 @@ With no misses, tick accrues `(N - 1) * round_assets`. With an underwater misser
 ## See also
 
 - [Miss and reserve](./miss-and-reserve.md)
-- `CONTEXT.md` — Round deposits and pull payouts
-- `tests/unitary/pasanaku/test_tick_claim.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — Round deposits and pull payouts
+- [`test_tick_claim.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_tick_claim.py)

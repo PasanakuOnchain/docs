@@ -67,5 +67,5 @@ Round deposits and `tick` are valid only after `started != 0`.
 ## See also
 
 - [ERC-1155 membership](./membership.md)
-- `CONTEXT.md` — Yield start
-- `tests/unitary/pasanaku/test_lifecycle.py`, `tests/unitary/erc1155/test_membership_mint.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — Yield start
+- [`test_lifecycle.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_lifecycle.py), [`test_membership_mint.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/erc1155/test_membership_mint.py)

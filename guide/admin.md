@@ -64,5 +64,5 @@ Integrators must evaluate vault solvency and liquidity independently.
 ## See also
 
 - [End settlement](./end-settlement.md)
-- Repository `README.md` — deployment env vars
-- `tests/unitary/pasanaku/test_admin.py`, `test_fees.py`
+- [README](https://github.com/PasanakuOnchain/core-v2/blob/main/README.md) — deployment env vars
+- [`test_admin.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_admin.py), [`test_fees.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_fees.py)

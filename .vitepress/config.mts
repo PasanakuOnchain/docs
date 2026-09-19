@@ -73,7 +73,9 @@ export default defineConfig({
         ],
       },
     ],
-    socialLinks: [],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/PasanakuOnchain/docs" },
+    ],
     outline: { level: [2, 3] },
     search: { provider: "local" },
   },

@@ -69,5 +69,5 @@ When reasoning about a state transition, verify:
 
 ## See also
 
-- `CONTEXT.md` — Collateral shares
-- `tests/unitary/pasanaku/test_collateral.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — Collateral shares
+- [`test_collateral.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_collateral.py)

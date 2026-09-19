@@ -66,5 +66,5 @@ Leave returns that participant's locked shares to free shares, clears their (sti
 ## See also
 
 - [Start and shuffle](./start-and-shuffle.md)
-- `CONTEXT.md` — Pledge, Pending pools
-- `tests/unitary/pasanaku/test_lifecycle.py`, `test_deposit.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — Pledge, Pending pools
+- [`test_lifecycle.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_lifecycle.py), [`test_deposit.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_deposit.py)

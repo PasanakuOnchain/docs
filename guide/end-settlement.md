@@ -78,5 +78,5 @@ Liquid round payouts remain separate: recipients must still `claim_round_payout`
 ## See also
 
 - [Admin and fees](./admin.md)
-- `CONTEXT.md` — End settlement
-- `tests/unitary/pasanaku/test_fees.py`, `test_lifecycle.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — End settlement
+- [`test_fees.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_fees.py), [`test_lifecycle.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_lifecycle.py)

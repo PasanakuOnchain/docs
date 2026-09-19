@@ -31,7 +31,7 @@ features:
 
 Canonical behavior lives in [`src/Pasanaku.vy`](https://github.com/PasanakuOnchain/core-v2/blob/main/src/Pasanaku.vy) and the passing test suite. These docs explain that behavior for people and for integrators.
 
-For a short contributor checklist, see `CONTEXT.md` in the repository root. For install, test, and deploy commands, see `README.md`.
+For a short contributor checklist, see [`CONTEXT.md`](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md). For install, test, and deploy commands, see the [core-v2 README](https://github.com/PasanakuOnchain/core-v2/blob/main/README.md).
 
 ## How to read the docs
 

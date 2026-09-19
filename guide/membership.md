@@ -50,5 +50,5 @@ Membership minting is not gated by ownership; it runs inside `_start_pasanaku`.
 ## See also
 
 - [Start and shuffle](./start-and-shuffle.md)
-- `CONTEXT.md` — ERC-1155 membership
-- `tests/unitary/erc1155/test_membership_mint.py`, `test_soulbound.py`, `test_uri.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — ERC-1155 membership
+- [`test_membership_mint.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/erc1155/test_membership_mint.py), [`test_soulbound.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/erc1155/test_soulbound.py), [`test_uri.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/erc1155/test_uri.py)

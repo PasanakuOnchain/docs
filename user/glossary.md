@@ -37,4 +37,4 @@ Short definitions for terms you will see in the app and this user guide.
 
 - [Getting started](/user/getting-started)
 - [What is a pasanaku?](/user/what-is-pasanaku)
-- Implementation: [Reference](/guide/reference), repository `CONTEXT.md`
+- Implementation: [Reference](/guide/reference), [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md)

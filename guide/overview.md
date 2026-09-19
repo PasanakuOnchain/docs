@@ -75,5 +75,5 @@ Pool yield accounting begins at `_start_pasanaku`, not at create or join. Pre-st
 
 ## See also
 
-- Domain guardrails: repository `CONTEXT.md`
-- Unitary lifecycle coverage: `tests/unitary/pasanaku/test_lifecycle.py`
+- Domain guardrails: [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md)
+- Unitary lifecycle coverage: [`test_lifecycle.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_lifecycle.py)

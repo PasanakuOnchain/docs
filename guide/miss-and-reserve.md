@@ -57,5 +57,5 @@ If a solvent path's `withdraw` / `redeem` fails because the vault cannot pay out
 ## See also
 
 - [End settlement](./end-settlement.md)
-- `CONTEXT.md` — Miss and pool reserve
-- `tests/unitary/pasanaku/test_tick_claim.py`, `test_fees.py`
+- [CONTEXT.md](https://github.com/PasanakuOnchain/core-v2/blob/main/CONTEXT.md) — Miss and pool reserve
+- [`test_tick_claim.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_tick_claim.py), [`test_fees.py`](https://github.com/PasanakuOnchain/core-v2/blob/main/tests/unitary/pasanaku/test_fees.py)
